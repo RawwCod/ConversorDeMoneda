@@ -65,7 +65,7 @@ public class Menu extends JFrame {
 				AbrirVentanaDinero();
 			}
 		});
-		btnDinero.setIcon(new ImageIcon("C:\\Users\\HP\\Downloads\\conversorDinero.jpg"));
+		btnDinero.setIcon(new ImageIcon("D:\\Proyectos_Eclipse\\ConversorDeMoneda\\src\\Imagenes\\conversorDinero.jpg"));
 		btnDinero.setBounds(40, 50, 152, 70);
 		panel.add(btnDinero);
 		
